@@ -123,7 +123,3 @@ Do not fork this project yet before all relevant info is added. It will be neede
 You have reached the end of this page.
 
 ( [Back to top](#Top) | [Exit to GitHub](https://github.com/)
-
-### EOF
-
-***

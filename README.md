@@ -6,7 +6,7 @@
 # .github
 General GitHub information to appear on all repositories.
 
-**The following warnings and notes only apply to the repository owner [@seanpm2001](https://github.com/seanpm2001/) anybody else is obviously free to do whatever they want with this project, as long as they abide by the GPL3 license.**
+**The following warnings and notes only apply to the repository owner [@seanpm2001](https://github.com/MrAmazingFreelancer/) anybody else is obviously free to do whatever they want with this project, as long as they abide by the GPL3 license.**
 
 # WARNING
 
@@ -127,7 +127,7 @@ Do not fork this project yet before all relevant info is added. It will be neede
 
 You have reached the end of this page.
 
-( [Back to top](#Top) | [Exit to GitHub](https://github.com/) | [Exit to Bing](https://www.bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com/) | [Exit to Safe.DuckDuckGo](https://safe.duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org/) | [Exit to Swisscows](https://swisscows.com/) )
+( [Back to top](#Top) | [Exit to GitHub](https://github.com/)
 
 ### EOF
 

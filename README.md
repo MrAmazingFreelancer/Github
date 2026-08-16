@@ -1,7 +1,7 @@
 # .github
 General GitHub information to appear on all repositories.
 
-**The following warnings and notes only apply to the repository owner [@seanpm2001](https://github.com/MrAmazingFreelancer/) anybody else is obviously free to do whatever they want with this project, as long as they abide by the GPL3 license.**
+**The following warnings and notes only apply to the repository owner [@MrAmazingFreelancer](https://github.com/MrAmazingFreelancer/) anybody else is obviously free to do whatever they want with this project, as long as they abide by the GPL3 license.**
 
 # WARNING
 

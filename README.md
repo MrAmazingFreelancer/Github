@@ -54,7 +54,7 @@ Do not fork this project yet before all relevant info is added. It will be neede
 
 <details><summary><p>Click/tap here to expand/collapse this section</p></summary>
 
-**Version 1 **
+**Version**
 
 > Changes:
 
@@ -77,12 +77,6 @@ Do not fork this project yet before all relevant info is added. It will be neede
 > * Added the warning section
 
 > * No other changes in version
-
-**Version 2 )**
-
-> Changes:
-
-
 
 **Version 2 (Coming soon)**
 

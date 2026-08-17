@@ -41,8 +41,6 @@ Do not fork this project yet before all relevant info is added. It will be neede
 
 **Line count (including blank lines and compiler line):** `135`
 
-**All times are UTC-7 (PDT/Pacific Time)**
-
 **You may need special rendering support for the `<dropdown>` HTML tag being used in this document**
 
 **Encoding:** `UTF-8` **(with no non-US-ASCII characters)**
@@ -56,7 +54,7 @@ Do not fork this project yet before all relevant info is added. It will be neede
 
 <details><summary><p>Click/tap here to expand/collapse this section</p></summary>
 
-**Version 1 (2021, Sunday, November 7th at 5:31 pm)**
+**Version 1 **
 
 > Changes:
 
@@ -64,19 +62,25 @@ Do not fork this project yet before all relevant info is added. It will be neede
 
 > * Added the title section
 
-> * No other changes in version 1
+> * > * Added the warning section
 
-**Version 2 (2021, Sunday, November 7th at 5:57 pm)**
+> * Added a public disclaimer
+
+> * Added a personal fork warning
+
+> * Added the file info section
+
+> * Added the file history section
+
+> * Added the footer
+
+> * No other changes in version
+
+**Version 2 )**
 
 > Changes:
 
 > * Added the warning section
-
-> * No other changes in version 2
-
-**Version 3 (2021, Monday, November 8th at 8:42 pm)**
-
-> Changes:
 
 > * Added a public disclaimer
 
@@ -89,6 +93,12 @@ Do not fork this project yet before all relevant info is added. It will be neede
 > * Added the footer
 
 > * No other changes in version 3
+
+**Version 3 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
 
 **Version 4 (Coming soon)**
 

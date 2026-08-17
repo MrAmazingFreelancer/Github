@@ -37,7 +37,7 @@ Do not fork this project yet before all relevant info is added. It will be neede
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `3 (2021, Monday, November 8th at 8:42 pm)`
+**File version:** `(*) (2021, Monday, November 8th at 8:42 pm)`
 
 **Line count (including blank lines and compiler line):** `135`
 
@@ -62,24 +62,6 @@ Do not fork this project yet before all relevant info is added. It will be neede
 
 > * Added the title section
 
-> * > * Added the warning section
-
-> * Added a public disclaimer
-
-> * Added a personal fork warning
-
-> * Added the file info section
-
-> * Added the file history section
-
-> * Added the footer
-
-> * No other changes in version
-
-**Version 2 )**
-
-> Changes:
-
 > * Added the warning section
 
 > * Added a public disclaimer
@@ -92,37 +74,23 @@ Do not fork this project yet before all relevant info is added. It will be neede
 
 > * Added the footer
 
-> * No other changes in version 3
+> * Added the warning section
 
-**Version 3 (Coming soon)**
+> * No other changes in version
+
+**Version 2 )**
+
+> Changes:
+
+
+
+**Version 2 (Coming soon)**
 
 > Changes:
 
 > * Coming soon
 
-**Version 4 (Coming soon)**
-
-> Changes:
-
-> * Coming soon
-
-> * No other changes in version 4
-
-**Version 5 (Coming soon)**
-
-> Changes:
-
-> * Coming soon
-
-> * No other changes in version 5
-
-**Version 6 (Coming soon)**
-
-> Changes:
-
-> * Coming soon
-
-> * No other changes in version 6
+> * No other changes in version
 
 </details>
 
